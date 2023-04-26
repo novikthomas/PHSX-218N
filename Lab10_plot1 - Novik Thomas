@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 #Data Section - Create Arrays for data. Perform necessary calculations.
 #CHANGE THE VARIABLE NAMES and numbers to match your data
 
-sintheta = np.array([-0.04207101505, -0.03855723699,-0.02880740602,-0.02256942013,-0.009606012308,-0.004643070128,0,0.004963274227,0.009766097368,0.02448911505,0.02880740602,0.03903647569,0.04350802732]) #what are units?
+sintheta = np.array([-0.04478514518,-0.04015459401,-0.02944702152,-0.02480903844,-0.009606012308,-0.0052834768,0,0.004963274227,0.009766097368,0.02448911505,0.029287121,0.04031431298,0.04350802732]) #what are units?
 m = np.array([-9, -8, -6, -5, -2, -1, 0, 1, 2, 5, 6, 8, 9]) #what are units?
 
 
